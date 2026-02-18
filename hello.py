@@ -1,4 +1,5 @@
-print("har har mahadev")
-print("hello, im karan , and im an python developer")
-print("lets being start")
+print('''har har mahadev
+hello, im karan , and im an python developer
+lets being start''')
+
 
